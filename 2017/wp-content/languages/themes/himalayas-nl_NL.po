@@ -1,0 +1,1587 @@
+# Translation of Themes - Himalayas in Dutch
+# This file is distributed under the same license as the Themes - Himalayas package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-18 11:45:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Himalayas\n"
+
+#. #-#-#-#-#  himalayas.pot (Himalayas 1.1.6)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/admin/class-himalayas-admin.php:390 inc/demo-config.php:22
+msgid "Himalayas"
+msgstr "Himalayas"
+
+#. Description of the plugin/theme
+msgid "Himalayas is modern style free one page parallax responsive WordPress theme. Inform your visitors all they need to know right from your home page without requiring to go to the other pages. Himalayas can be used for business, portfolio, corporate, agency, photography, freelancers and almost any kind of sites. Get free support at https://themegrill.com/support-forum/ and check the demo at https://demo.themegrill.com/himalayas/"
+msgstr "Himalayas is een modern en gratis 'One Page' responsive WordPress thema met Parallax. Informeer je bezoekers met alles dat ze nodig hebben vanaf je homepagina zonder dat ze naar andere pagina's hoeven te gaan. Himalayas kan gebruikt worden voor zakelijk, portfolio, corporate, fotografie, freelancers en bijna ieder soort site. Vraag gratis support op https://themegrill.com/support-forum/ en bekijk de demo op http://demo.themegrill.com/himalayas/"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:58
+msgid "Page :"
+msgstr "Pagina :"
+
+#: inc/admin/class-himalayas-admin.php:353
+msgid " by WPEverest"
+msgstr " door WPEverest"
+
+#: inc/admin/class-himalayas-admin.php:352
+msgid "Everest Forms – Easy Contact Form and Form Builder"
+msgstr "Everest Forms – Eenvoudig Contactformulier bouwer"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:122
+msgid "Dismiss this notice"
+msgstr "Negeer dit bericht"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:327
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:55
+msgid "Install Required Plugins"
+msgstr "Installeer verplichte plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:328
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:56
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:330
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:58
+msgid "Installing Plugin: %s"
+msgstr "Installeren plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:332
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:60
+msgid "Updating Plugin: %s"
+msgstr "Bijwerken plugin: %s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:333
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:61
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:370
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:98
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Start installatie plugin"
+msgstr[1] "Start installatie plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:375
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:103
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Start bijwerken plugin"
+msgstr[1] "Start bijwerken plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:380
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:108
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Start activering plugin"
+msgstr[1] "Start activering plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:385
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:113
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar het installatiescherm voor verplichte plugins"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Ga terug naar het dashboard"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3159
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:114
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2952
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:115
+msgid "The following plugin was activated successfully:"
+msgstr "De volgende plugin is succesvol geactiveerd:"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:390
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:117
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen actie ondernomen. Plugin %1$s was al actief."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:119
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin niet geactiveerd. Een hogere versie van %s is nodig voor dit thema. Update de plugin."
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:121
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:396
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:123
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Er zijn een of meerdere vereiste of aanbevolen plugins beschikbaar om te installeren, bij te werken of te activeren."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#: inc/tgm-plugin-activation/tgmpa-himalayas.php:124
+msgid "Please contact the administrator of this site for help."
+msgstr "Neem voor hulp contact op met de beheerder van deze website."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Deze plugin moet bijgewerkt worden om geschikt te zijn voor je thema."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Bijwerken vereist"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Het niet lokale pluginpakket heeft geen map met de benodigde slug en hernoemen is niet gelukt."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Neem contact op met de verstrekker van de plugin en vraag hem de plugin in te pakken volgens de WordPress richtlijnen."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "De niet lokale plugin bestaat uit meer dan een bestand, maar deze bestanden zijn niet samengevoegd in een map."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "en"
+
+#. translators: %s: version number
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Verplicht"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Externe bron"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Bij installatie inbegrepen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Actief"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Verplichte update niet beschikbaar"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Bijwerken vereist"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Bijwerken aanbevolen"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alle <span class=\"count\">(%s)</span>"
+msgstr[1] "Alle <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Te installeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te installeren <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update beschikbaar <span class=\"count\">(%s)</span>"
+msgstr[1] "Updates beschikbaar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Te activeren <span class=\"count\">(%s)</span>"
+msgstr[1] "Te activeren <span class=\"count\">(%s)</span>"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "onbekend"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Geïnstalleerde versie:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimaal benodigde versie:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Beschikbare versie:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Geen plugins om te installeren, bij te werken of te activeren."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Bron"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versie"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Bijwerken %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activeer %2$s"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade bericht van de plugin auteur:"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Bijwerken"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om te installeren. Er is geen actie ondernomen."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om bij te werken. Er is geen actie ondernomen."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Er zijn geen plugins beschikbaar om te worden geinstalleerd op dit moment."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Er zijn geen plugins beschikbaar om te worden bijgewerkt op dit moment."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Er zijn geen plugins geselecteerd om geactiveerd te worden. Er is geen actie ondernomen."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Er zijn geen plugins beschikbaar om te worden geactiveerd op dit moment."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Plugin activatie mislukt."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s bijwerken (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Er is een fout opgetreden tijdens de installatie van %1$s: <strong> %2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatie- en activeringsproces is begonnen. Dit proces kan een tijdje duren afhankelijk van je webhost, een moment geduld."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geïnstalleerd en geactiveerd."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Details tonen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Details verbergen"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn voltooid."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) wordt geïnstalleerd en geactiveerd."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Het installatieproces is begonnen. Dit proces kan een tijdje duren afhankelijk van je webhost, een moment geduld."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s is succesvol geïnstalleerd."
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn voltooid."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin %1$s (%2$d/%3$d) wordt geïnstalleerd"
+
+#: inc/tgm-plugin-activation/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Installeren"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:92
+msgid "Check to display link in new tab."
+msgstr "Vink aan om link te tonen in een nieuwe tab."
+
+#: inc/customizer.php:93
+msgid "%sInfo:%s This option will be removed in upcoming update. Please go to Site Identity section to upload the theme logo."
+msgstr "%sInfo:%s Deze optie wordt verwijderd in een volgende update. Ga naar de Site Identiteit sectie om je themalogo te uploaden."
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:62
+#: inc/widgets/class-himalayas-featured-posts-widget.php:76
+#: inc/widgets/class-himalayas-our-team-widget.php:69
+msgid "Use image"
+msgstr "Afbeelding gebruiken"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:63
+#: inc/widgets/class-himalayas-featured-posts-widget.php:77
+#: inc/widgets/class-himalayas-our-team-widget.php:70
+msgid "Select an Image"
+msgstr "Selecteer een afbeelding"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:61
+#: inc/widgets/class-himalayas-featured-posts-widget.php:75
+#: inc/widgets/class-himalayas-our-team-widget.php:68
+msgid "Choose an image"
+msgstr "Selecteer een afbeelding"
+
+#: inc/widgets/widgets.php:63
+msgid "Shows widgets on footer sidebar one."
+msgstr "Toon widgets in footer sidebar één."
+
+#: inc/widgets/widgets.php:73
+msgid "Shows widgets on footer sidebar two."
+msgstr "Toon widgets in footer sidebar twee."
+
+#: inc/widgets/widgets.php:83
+msgid "Shows widgets on footer sidebar three."
+msgstr "Toon widgets in footer sidebar drie."
+
+#: inc/admin/class-himalayas-admin.php:36
+#: inc/admin/class-himalayas-admin.php:119
+msgid "About"
+msgstr "Over"
+
+#: inc/admin/class-himalayas-admin.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Actie mislukt. Vernieuw de pagina en probeer nogmaals."
+
+#: inc/admin/class-himalayas-admin.php:81
+msgid "Cheatin&#8217; huh?"
+msgstr "Valsspelen?"
+
+#: inc/admin/class-himalayas-admin.php:95
+msgid "Dismiss"
+msgstr "Negeren"
+
+#: inc/admin/class-himalayas-admin.php:155
+msgid "Supported Plugins"
+msgstr "Ondersteunde plugins"
+
+#: inc/admin/class-himalayas-admin.php:163
+msgid "Free Vs Pro"
+msgstr "Gratis versus Pro"
+
+#: inc/admin/class-himalayas-admin.php:171
+msgid "Changelog"
+msgstr "Changelog"
+
+#: inc/admin/class-himalayas-admin.php:205
+msgid "Theme Customizer"
+msgstr "Thema Customizer"
+
+#: inc/admin/class-himalayas-admin.php:206
+msgid "All Theme Options are available via Customize screen."
+msgstr "Alle thema-opties zijn beschikbaar via het Customize-scherm."
+
+#: inc/admin/class-himalayas-admin.php:208
+msgid "Customize"
+msgstr "Customize"
+
+#: inc/admin/class-himalayas-admin.php:214
+msgid "Please view our documentation page to setup the theme."
+msgstr "Lees onze documentatiepagina om te kijken hoe het thema in te richten."
+
+#: inc/admin/class-himalayas-admin.php:221
+msgid "Got theme support question?"
+msgstr "Heb je een ondersteuningsvraag over dit thema?"
+
+#: inc/admin/class-himalayas-admin.php:229
+msgid "Need more features?"
+msgstr "Meer mogelijkheden nodig?"
+
+#: inc/admin/class-himalayas-admin.php:230
+#: inc/admin/class-himalayas-admin.php:384
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Upgrade naar de PRO-versie voor meer uitgebreide mogelijkheden."
+
+#: inc/admin/class-himalayas-admin.php:237
+msgid "Got sales related question?"
+msgstr "Een verkoopgerelateerde vraag?"
+
+#: inc/admin/class-himalayas-admin.php:238
+msgid "Please send it via our sales contact page."
+msgstr "Vraag het op onze contactpagina voor verkoop."
+
+#: inc/admin/class-himalayas-admin.php:247
+#: inc/admin/class-himalayas-admin.php:255
+msgid "Translate"
+msgstr "Vertalen"
+
+#: inc/admin/class-himalayas-admin.php:251
+msgid "Click below to translate this theme into your own language."
+msgstr "Klik hieronder om dit thema in je eigen taal te vertalen."
+
+#: inc/admin/class-himalayas-admin.php:267
+msgid "Return to Updates"
+msgstr "Terug naar Updates"
+
+#: inc/admin/class-himalayas-admin.php:267
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Terug naar Dashboard &rarr; Updates"
+
+#: inc/admin/class-himalayas-admin.php:270
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Ga naar Dashboard &rarr; Home"
+
+#: inc/admin/class-himalayas-admin.php:270
+msgid "Go to Dashboard"
+msgstr "Ga naar Dashboard"
+
+#: inc/admin/class-himalayas-admin.php:287
+msgid "View changelog below:"
+msgstr "Bekijk de changelog hieronder:"
+
+#: inc/admin/class-himalayas-admin.php:341
+msgid "This theme recommends following plugins:"
+msgstr "Dit thema raadt de volgende plugins aan:"
+
+#: inc/admin/class-himalayas-admin.php:344
+msgid "Social Icons"
+msgstr "Sociale Iconen"
+
+#: inc/admin/class-himalayas-admin.php:345
+#: inc/admin/class-himalayas-admin.php:349
+msgid " by ThemeGrill"
+msgstr " door ThemeGrill"
+
+#: inc/admin/class-himalayas-admin.php:348
+msgid "Easy Social Sharing"
+msgstr "Easy Social Sharing"
+
+#: inc/admin/class-himalayas-admin.php:355
+msgid "WP-PageNavi"
+msgstr "WP-PageNavi"
+
+#: inc/admin/class-himalayas-admin.php:358
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:362
+msgid "Polylang"
+msgstr "Polylang"
+
+#: inc/admin/class-himalayas-admin.php:359
+#: inc/admin/class-himalayas-admin.php:363
+#: inc/admin/class-himalayas-admin.php:367
+msgid "Fully Compatible in Pro Version"
+msgstr "Volledig compatible in Pro-versie"
+
+#: inc/admin/class-himalayas-admin.php:366
+msgid "WPML"
+msgstr "WPML"
+
+#: inc/admin/class-himalayas-admin.php:389
+msgid "Features"
+msgstr "Mogelijkheden"
+
+#: inc/admin/class-himalayas-admin.php:467
+msgid "Forum"
+msgstr "Forum"
+
+#: inc/admin/class-himalayas-admin.php:422
+msgid "1"
+msgstr "1"
+
+#: inc/admin/class-himalayas-admin.php:423
+msgid "2"
+msgstr "2"
+
+#: inc/admin/class-himalayas-admin.php:456
+msgid "Footer Copyright Editor"
+msgstr "Editor voor de copyright-tekst in de footer"
+
+#: inc/admin/class-himalayas-admin.php:451
+msgid "WPML Compatible"
+msgstr "WPML compatible"
+
+#: inc/admin/class-himalayas-admin.php:441
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce Compatible"
+
+#: inc/admin/class-himalayas-admin.php:529
+msgid "View Pro"
+msgstr "Bekijk Pro"
+
+#: inc/admin/class-himalayas-admin.php:240
+msgid "Contact Page"
+msgstr "Contactpagina"
+
+#: inc/admin/class-himalayas-admin.php:408
+msgid "Unlimited Slides"
+msgstr "Onbeperkte slides"
+
+#: inc/admin/class-himalayas-admin.php:413
+msgid "Slides type, duration & delay time"
+msgstr "Slides-type, duur & vertragingstijd"
+
+#: inc/admin/class-himalayas-admin.php:436
+msgid "Font Size options"
+msgstr "Opties voor lettergrootte"
+
+#: inc/admin/class-himalayas-admin.php:431
+msgid "Color Palette"
+msgstr "Kleurpalet"
+
+#: inc/admin/class-himalayas-admin.php:432
+msgid "Primary Color Option"
+msgstr "Optie voor hoofdkleur"
+
+#: inc/admin/class-himalayas-admin.php:461
+msgid "Demo Content"
+msgstr "Demo-inhoud"
+
+#: inc/admin/class-himalayas-admin.php:516
+msgid "TG: Our Clients"
+msgstr "TG: Onze cliënten"
+
+#: inc/admin/class-himalayas-admin.php:222
+msgid "Please put it in our dedicated support forum."
+msgstr "Plaats de vraag op ons toegewijd support forum."
+
+#: inc/admin/class-himalayas-admin.php:521
+msgid "TG: Fun Facts"
+msgstr "TG: Fun Facts"
+
+#: inc/admin/class-himalayas-admin.php:396
+msgid "Use as One Page theme"
+msgstr "Gebruik als een 'One Page'-thema"
+
+#: inc/admin/class-himalayas-admin.php:407
+msgid "4 Slides"
+msgstr "4 Slides"
+
+#: inc/admin/class-himalayas-admin.php:426
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/admin/class-himalayas-admin.php:468
+msgid "Emails/Priority Support Ticket"
+msgstr "E-mails / Support Ticket met hoge prioriteit"
+
+#: inc/admin/class-himalayas-admin.php:96
+msgid "Welcome! Thank you for choosing Himalayas! To fully take advantage of the best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr "Welkom. Bedankt voor het kiezen van Himalayas. Om het beste gebruik te maken van de mogelijkheden die ons thema biedt, kijk naar onze %swelkomstpagina%s."
+
+#: inc/admin/class-himalayas-admin.php:428
+msgid "500+"
+msgstr "500+"
+
+#: inc/admin/class-himalayas-admin.php:391 inc/demo-config.php:26
+msgid "Himalayas Pro"
+msgstr "Himalayas Pro"
+
+#: inc/admin/class-himalayas-admin.php:416
+msgid "Header Video"
+msgstr "Header Video"
+
+#: inc/admin/class-himalayas-admin.php:511
+msgid "TG: Testimonial Widget"
+msgstr "TG: Testimonial Widget"
+
+#: inc/admin/class-himalayas-admin.php:401
+msgid "Parallax Scrolling"
+msgstr "Parallax Scrollen"
+
+#: inc/admin/class-himalayas-admin.php:98
+msgid "Get started with Himalayas"
+msgstr "Beginnen met Himalayas"
+
+#: inc/admin/class-himalayas-admin.php:421
+msgid "Slider text layout"
+msgstr "layout van slider-tekst"
+
+#: inc/admin/class-himalayas-admin.php:433
+msgid "Primary color option & 18+"
+msgstr "Optie voor hoofdkleur & 18+"
+
+#: inc/admin/class-himalayas-admin.php:446
+msgid "Woocommerce Page Layout"
+msgstr "Pagina-layout van WooCommerce"
+
+#: inc/admin/class-himalayas-admin.php:506
+msgid "TG: Image Gallery Widget"
+msgstr "TG: Afbeeldingengalerij Widget"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:30
+msgid "Note: Enter the Portfolio Section ID and use same for Menu item."
+msgstr "NB: Voer de sectie-ID in van je portfolio en gebruik dezelfde voor menu-item."
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:11
+msgid "Display some pages as Portfolio"
+msgstr "Geef enkele pagina's weer als portfolio"
+
+#: search.php:25
+msgid "Search Results:"
+msgstr "Zoek Resultaten:"
+
+#: inc/functions.php:434
+msgid "Theme: %1$s by %2$s."
+msgstr "Thema: %1$s door %2$s."
+
+#: inc/functions.php:434
+msgid "Powered by %s."
+msgstr "Powered by %s."
+
+#: inc/admin/class-himalayas-admin.php:134
+msgid "Theme Info"
+msgstr "Thema info"
+
+#: inc/functions.php:430
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/admin/class-himalayas-admin.php:138
+#: inc/admin/class-himalayas-admin.php:232 inc/customizer.php:565
+msgid "View PRO version"
+msgstr "Bekijk PRO-versie"
+
+#: inc/admin/class-himalayas-admin.php:136
+msgid "View Demo"
+msgstr "Bekijk Demo"
+
+#: inc/admin/class-himalayas-admin.php:140
+msgid "Rate this theme"
+msgstr "Beoordeel dit thema"
+
+#: inc/admin/class-himalayas-admin.php:224
+#: inc/admin/class-himalayas-admin.php:466
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: inc/admin/class-himalayas-admin.php:213
+#: inc/admin/class-himalayas-admin.php:216
+msgid "Documentation"
+msgstr "Documentatie"
+
+#. Template Name of the plugin/theme
+msgid "Portfolio Template"
+msgstr "Portfolio Template"
+
+#. Template Name of the plugin/theme
+msgid "Service Template"
+msgstr "Service Template"
+
+#. Template Name of the plugin/theme
+msgid "Our Team Template"
+msgstr "'Ons team' Template"
+
+#: sidebar-left.php:18 sidebar.php:18
+msgid "Example Widget"
+msgstr "Voorbeeldwidget"
+
+#: sidebar-left.php:19
+msgid "This is an example widget to show how the Left Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Dit is een voorbeeld-widget om te tonen hoe de linker sidebar er standaard uitziet. Je kunt eigen widgets toevoegen op het %swidgets-scherm%s in de admin. Als er widgets zijn toegevoegd dan worden die widgets getoond."
+
+#: sidebar.php:19
+msgid "This is an example widget to show how the Right Sidebar looks by default. You can add custom widgets from the %swidgets screen%s in the admin. If custom widgets are added then this will be replaced by those widgets."
+msgstr "Dit is een voorbeeld-widget om te tonen hoe de rechter sidebar er standaard uitziet. Je kunt eigen widgets toevoegen op het %swidgets-scherm%s in de admin. Als er widgets zijn toegevoegd dan worden die widgets getoond."
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoeken&hellip;"
+
+#: no-results.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: no-results.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met je zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: no-results.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: navigation.php:45
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: navigation.php:44
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: navigation.php:25 navigation.php:37
+msgid "Next &rarr;"
+msgstr "Volgende &rarr;"
+
+#: navigation.php:24 navigation.php:36
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: inc/widgets/class-himalayas-contact-widget.php:61
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:53
+msgid "Background Image:"
+msgstr "Achtergrondafbeelding:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:266
+msgid "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/admin/class-himalayas-admin.php:496
+#: inc/widgets/class-himalayas-our-team-widget.php:13
+msgid "TG: Our Team Widget"
+msgstr "TG: 'Ons team' Widget"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:37
+msgid "Our Team Section ID:"
+msgstr "Sectie-ID van 'Ons team':"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:10
+msgid "Show your Team Members."
+msgstr "Toon je teamleden."
+
+#: inc/widgets/class-himalayas-contact-widget.php:10
+msgid "Show your Contact page."
+msgstr "Toon je contactpagina."
+
+#: inc/widgets/class-himalayas-our-team-widget.php:91
+msgid "Note: Create the pages and select Our Team Template to display Our Team pages."
+msgstr "NB: Maak de pagina's aan en selecteer 'Ons team' template om 'Ons team'-pagina's weer te geven."
+
+#: inc/widgets/class-himalayas-contact-widget.php:34
+msgid "Contact Section ID:"
+msgstr "Sectie-ID van Contact:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:31
+msgid "Note: Enter the Contact Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "NB: Voer de sectie-ID van Contact in en gebruik dezelfde voor menu-item. Wordt alleen gebruikt voor het 'One Page'-menu. "
+
+#: inc/widgets/class-himalayas-our-team-widget.php:34
+msgid "Note: Enter the Our Team Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "NB: Voer de sectie-ID van 'Ons team' in en gebruik dezelfde voor menu-item. Wordt alleen gebruikt voor het 'One Page'-menu."
+
+#: inc/widgets/class-himalayas-contact-widget.php:50
+msgid "Select a Contact page."
+msgstr "Selecteer een contactpagina."
+
+#: inc/admin/class-himalayas-admin.php:501
+#: inc/widgets/class-himalayas-contact-widget.php:13
+msgid "TG: Contact Us Widget"
+msgstr "TG: 'Neem contact op' Widget"
+
+#: inc/widgets/class-himalayas-contact-widget.php:59
+msgid "Use Contact Form Plugin and enter the shortcode here:"
+msgstr "Gebruik Contact Form Plugin en voer de shortcode hier in:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:252
+msgid "by "
+msgstr "door"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:258
+msgid "on "
+msgstr "op"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:247
+msgid "Posted in "
+msgstr "Geplaatst in"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:104
+msgid "Show latest Posts"
+msgstr "Laatste berichten weergeven"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:107
+msgid "Show posts from a category"
+msgstr "Toon berichten van een categorie"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:111
+msgid "Select category"
+msgstr "Categorie selecteren"
+
+#: inc/admin/class-himalayas-admin.php:491
+#: inc/widgets/class-himalayas-featured-posts-widget.php:14
+msgid "TG: Featured Posts"
+msgstr "TG: Uitgelichte berichten"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:11
+msgid "Display latest posts or posts of specific category"
+msgstr "Toon laatste berichten of berichten in een specifieke categorie"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:42
+msgid "Note: Enter the Featured Post Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "NB: Voer de sectie-ID van het uitgelichte bericht in en gebruik dezelfde voor menu-item. Wordt alleen gebruikt voor het 'One Page'-menu. "
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:44
+msgid "Featured Post Section ID:"
+msgstr "Sectie-ID van uitgelicht bericht:"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:58
+msgid "Note: Create the pages and select Portfolio Template to display Portfolio es."
+msgstr "Notitie: Maak de pagina's aan en selecteer Portfolio Template om de portfolio pagina's weer te geven."
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:10
+msgid "Use this widget to show the call to action section."
+msgstr "Gebruik deze widget om de Call To Action sectie te tonen."
+
+#: inc/admin/class-himalayas-admin.php:481
+#: inc/widgets/class-himalayas-call-to-action-widget.php:13
+msgid "TG: Call To Action Widget"
+msgstr "TG: Call To Action Widget"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:39
+#: inc/widgets/class-himalayas-featured-posts-widget.php:52
+#: inc/widgets/class-himalayas-our-team-widget.php:45
+msgid "Background Color:"
+msgstr "Achtergrondkleur:"
+
+#: inc/widgets/class-himalayas-featured-posts-widget.php:94
+msgid "Number of posts to display:"
+msgstr "Aantal berichten om te tonen:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:72
+msgid "Call to Action Additional Text"
+msgstr "Extra tekst van Call to Action"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:69
+msgid "Call to Action Main Text"
+msgstr "Call to Action Tekst"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:67
+#: inc/widgets/class-himalayas-featured-posts-widget.php:81
+#: inc/widgets/class-himalayas-our-team-widget.php:74
+msgid "OTHER SETTINGS :"
+msgstr "Overige instellingen:"
+
+#: inc/admin/class-himalayas-admin.php:486
+#: inc/widgets/class-himalayas-portfolio-widget.php:14
+msgid "TG: Portfolio"
+msgstr "TG: Portfolio"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:38
+#: inc/widgets/class-himalayas-featured-posts-widget.php:51
+#: inc/widgets/class-himalayas-our-team-widget.php:43
+msgid "DESIGN SETTINGS :"
+msgstr "Design instellingen:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:46
+#: inc/widgets/class-himalayas-featured-posts-widget.php:60
+msgid "Image:"
+msgstr "Afbeelding:"
+
+#. translators: %s
+#: inc/widgets/class-himalayas-about-us-widget.php:93
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> For Icon Class"
+msgstr "<a href=\"%s\" target=\"_blank\">Verwijs hier</a> voor Icoon-class"
+
+#: inc/admin/class-himalayas-admin.php:476
+#: inc/widgets/class-himalayas-service-widget.php:13
+msgid "TG: Service Widget"
+msgstr "TG: Service Widget"
+
+#: inc/widgets/class-himalayas-service-widget.php:29
+msgid "Note: Enter the Service Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "NB: Voer de sectie-ID van Service in en gebruik dezelfde voor menu-item. Wordt alleen gebruikt voor het 'One Page'-menu."
+
+#: inc/widgets/class-himalayas-service-widget.php:32
+msgid "Service Section ID:"
+msgstr "Sectie-ID van Service:"
+
+#: inc/widgets/class-himalayas-portfolio-widget.php:33
+msgid "Portfolio Section ID:"
+msgstr "Sectie-ID van Portfolio:"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:94
+msgid "Choose the layout"
+msgstr "Selecteer de layout"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:99
+msgid "Layout One"
+msgstr "Layout één"
+
+#: inc/widgets/class-himalayas-call-to-action-widget.php:100
+msgid "Layout Two"
+msgstr "Layout twee"
+
+#: inc/widgets/class-himalayas-our-team-widget.php:86
+#: inc/widgets/class-himalayas-portfolio-widget.php:51
+#: inc/widgets/class-himalayas-service-widget.php:50
+msgid "Number of pages to display:"
+msgstr "Aantal pagina's om weer te geven:"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:82
+msgid "Button Icon Class:"
+msgstr "Icoon-class van knop:"
+
+#: inc/widgets/class-himalayas-service-widget.php:10
+msgid "Display some pages as services."
+msgstr "Toon enkele pagina's als services."
+
+#: inc/widgets/class-himalayas-service-widget.php:57
+msgid "Note: Create the pages and select Services Template to display Services pages."
+msgstr "NB: Maak de pagina's aan en selecteer Services Template om de service pagina's weer te geven."
+
+#: inc/widgets/class-himalayas-about-us-widget.php:68
+#: inc/widgets/class-himalayas-call-to-action-widget.php:77
+#: inc/widgets/class-himalayas-featured-posts-widget.php:121
+msgid "Button Text:"
+msgstr "Tekst op Knop:"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:75
+#: inc/widgets/class-himalayas-call-to-action-widget.php:83
+#: inc/widgets/class-himalayas-featured-posts-widget.php:127
+msgid "Button Redirect Link:"
+msgstr "Knop herverwijst naar pagina:"
+
+#: inc/widgets/class-himalayas-contact-widget.php:51
+msgid "Page"
+msgstr "Pagina"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:56
+msgid "Select a page to display Title, Excerpt and Featured image."
+msgstr "Selecteer een pagina om de titel, samenvatting en uitgelichte afbeelding weer te geven."
+
+#: inc/widgets/class-himalayas-about-us-widget.php:51
+#: inc/widgets/class-himalayas-contact-widget.php:46
+#: inc/widgets/class-himalayas-featured-posts-widget.php:89
+#: inc/widgets/class-himalayas-our-team-widget.php:81
+#: inc/widgets/class-himalayas-portfolio-widget.php:46
+#: inc/widgets/class-himalayas-service-widget.php:45
+msgid "Description:"
+msgstr "Beschrijving:"
+
+#: inc/widgets/widgets.php:81
+msgid "Footer Sidebar Three"
+msgstr "Footer Sidebar Drie"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:45
+#: inc/widgets/class-himalayas-contact-widget.php:41
+#: inc/widgets/class-himalayas-featured-posts-widget.php:84
+#: inc/widgets/class-himalayas-our-team-widget.php:77
+#: inc/widgets/class-himalayas-portfolio-widget.php:40
+#: inc/widgets/class-himalayas-service-widget.php:39
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:38
+msgid "About Section ID:"
+msgstr "Sectie-ID van 'Over ons':"
+
+#: inc/widgets/class-himalayas-about-us-widget.php:35
+msgid "Note: Enter the About Section ID and use same for Menu item. Only used for One Page Menu."
+msgstr "NB: Voer de sectie-ID van 'Over ons' in en gebruik dezelfde voor menu-item. Wordt alleen gebruikt voor het 'One Page'-menu."
+
+#: inc/widgets/class-himalayas-about-us-widget.php:10
+msgid "Show your about page."
+msgstr "Toon je 'over ons'-pagina."
+
+#: inc/admin/class-himalayas-admin.php:471
+#: inc/widgets/class-himalayas-about-us-widget.php:13
+msgid "TG: About Widget"
+msgstr "TG: 'Over ons' Widget"
+
+#: inc/widgets/widgets.php:33
+msgid "Shows widgets at Left side."
+msgstr "Laat de Widgets aan de linkerkant zien."
+
+#: inc/widgets/widgets.php:71
+msgid "Footer Sidebar Two"
+msgstr "Footer Sidebar Twee"
+
+#: inc/widgets/widgets.php:53
+msgid "Shows widgets on Error 404 page."
+msgstr "Toon widgets op 404-foutpagina."
+
+#: inc/widgets/widgets.php:51
+msgid "Error 404 Page Sidebar"
+msgstr "Sidebar van 404-foutpagina"
+
+#: inc/widgets/widgets.php:41
+msgid "Front Page Sidebar"
+msgstr "Sidebar van voorpagina"
+
+#: inc/widgets/widgets.php:43
+msgid "Show widgets at Front Page Content Section"
+msgstr "Toon widgets in content-sectie van voorpagina"
+
+#: inc/widgets/widgets.php:61
+msgid "Footer Sidebar One"
+msgstr "Footer Sidebar Eén"
+
+#: inc/widgets/widgets.php:23
+msgid "Shows widgets at Right side."
+msgstr "Laat de Widgets aan de rechterkant zien."
+
+#: inc/functions.php:564
+msgid "Archives"
+msgstr "Archieven"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/functions.php:562
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/functions.php:558
+msgid "Archives: %s"
+msgstr "Archieven: %s"
+
+#: inc/functions.php:555
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Gesprekken"
+
+#: inc/functions.php:553
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/functions.php:551
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Statussen"
+
+#: inc/functions.php:549
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Links"
+
+#: inc/functions.php:547
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citaten"
+
+#: inc/functions.php:545
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video's"
+
+#: inc/functions.php:543
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: inc/functions.php:541
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerijen"
+
+#: inc/functions.php:539
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Zijdelings"
+
+#: inc/functions.php:536
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F Y"
+
+#: inc/functions.php:536
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/functions.php:534
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/functions.php:534
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: inc/functions.php:532
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/functions.php:532
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: inc/functions.php:530
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#: inc/functions.php:528
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#. #-#-#-#-#  himalayas.pot (Himalayas 1.1.6)  #-#-#-#-#
+#. Author of the plugin/theme
+#: inc/functions.php:432
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#: inc/functions.php:526
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: inc/functions.php:434
+msgid "Copyright &copy; %1$s %2$s."
+msgstr "Copyright &copy; %1$s %2$s."
+
+#: inc/functions.php:410
+msgid "Reply"
+msgstr "Beantwoorden"
+
+#: inc/functions.php:405
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: inc/functions.php:397
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: inc/functions.php:394
+msgid "Post author"
+msgstr "Bericht auteur"
+
+#: inc/functions.php:379
+msgid "(Edit)"
+msgstr "(bewerken)"
+
+#: inc/functions.php:379
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/functions.php:268
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/functions.php:258
+msgid " % Comments"
+msgstr " % reacties"
+
+#: inc/customizer.php:518
+msgid "Show excerpt"
+msgstr "Toon uittreksel"
+
+#: inc/customizer.php:406
+msgid "Write your Custom CSS"
+msgstr "Schrijf je eigen CSS"
+
+#: inc/customizer.php:438
+msgid "Check to hide blog posts/static page on front page"
+msgstr "Aanvinken om de blogberichten/statische voorpagina te verbergen"
+
+#: inc/functions.php:258
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: inc/customizer.php:421
+msgid "Himalayas Additional Options"
+msgstr "Himalayas overige opties"
+
+#: inc/customizer.php:427
+msgid "Hide Blog posts from the front page"
+msgstr "Verberg blogberichten op de voorpagina"
+
+#: inc/customizer.php:502
+msgid "Excerpts or Full Posts option"
+msgstr "Optie voor samenvatting of volledig bericht"
+
+#: inc/customizer.php:513
+msgid "Toggle between displaying excerpts and full posts on your blog and archives."
+msgstr "Wissel tussen het tonen van samenvattingen en volledige berichten op je blog en archieven."
+
+#: inc/customizer.php:517
+msgid "Show full post content"
+msgstr "Toon volledige content van bericht"
+
+#: inc/functions.php:248 inc/related-posts.php:43
+msgid "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+msgstr "<span class=\"posted-on\"><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"> %3$s</a></span>"
+
+#: inc/functions.php:258
+msgid "0 Comment"
+msgstr "0 reacties"
+
+#: inc/customizer.php:419
+msgid "Contain additional options"
+msgstr "Bevat overige opties"
+
+#: inc/customizer.php:394
+msgid "Custom CSS"
+msgstr "Eigen CSS"
+
+#: inc/customizer.php:356
+msgid "Footer Layout Options"
+msgstr "Opties voor layout van footer"
+
+#: inc/customizer.php:367
+msgid "Select the Footer Layout"
+msgstr "Selecteer de layout van de footer"
+
+#: inc/customizer.php:371
+msgid "Choose Footer Layout One"
+msgstr "Kies footer layout één"
+
+#: inc/customizer.php:372
+msgid "Choose Footer Layout Two"
+msgstr "Kies footer layout twee"
+
+#: inc/customizer.php:281
+msgid "Default layout for pages only"
+msgstr "Standaard layout alleen voor pagina's"
+
+#: inc/customizer.php:308
+msgid "Default layout for single posts only"
+msgstr "Standaard layout alleen voor enkele berichten"
+
+#: inc/customizer.php:336
+msgid "Primary color option"
+msgstr "Hoofdkleur"
+
+#: inc/customizer.php:266
+msgid "Select default layout. This layout will be reflected in whole site archives, categories, search page etc. The layout for a single post and page can be controlled from below options"
+msgstr "KIes standaard layout. Deze layout wordt gebruikt in site-archieven, categorieën, zoekpagina, etc. De layout voor een enkel bericht en enkele pagina wordt door de opties hieronder bepaald."
+
+#: inc/customizer.php:293
+msgid "Select default layout for pages. This layout will be reflected in all pages unless unique layout is set for specific page"
+msgstr "KIes standaard layout voor pagina's. Deze layout wordt gebruikt in alle pagina's tenzij er een unieke layout is ingesteld voor een specifieke pagina."
+
+#: inc/customizer.php:320
+msgid "Select default layout for single posts. This layout will be reflected in all single posts unless unique layout is set for specific post"
+msgstr "KIes standaard layout voor enkele berichten. Deze layout wordt gebruikt voor alle enkele berichten tenzij er een unieke layout is ingesteld voor een specifiek bericht."
+
+#: inc/customizer.php:348
+msgid "This will reflect in links, buttons and many others. Choose a color to match your site"
+msgstr "Dit zal gelden voor links, knoppen en veel andere elementen. Kies een kleur die past binnen je site."
+
+#: inc/customizer.php:254
+msgid "Default layout"
+msgstr "Standaard-layout"
+
+#: inc/customizer.php:182
+msgid "Himalayas Design Options"
+msgstr "Himalayas Design opties"
+
+#: inc/customizer.php:181
+msgid "Contain all the Design related options"
+msgstr "Bevat alle design-gerelateerde opties"
+
+#: inc/admin/class-himalayas-admin.php:406 inc/customizer.php:167
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:145
+msgid "Enable the slider"
+msgstr "Activeer de slider"
+
+#: inc/customizer.php:132
+msgid "1. To display the Slider first check Enable the slider below. Now create the page for each slider and enter title, text and featured image. Choose that pages in the dropdown options."
+msgstr "1. Om de slider weer te geven, vink deze aan hieronder. Maak nu een pagina aan voor elke slider en voer titel, tekst en uitgelichte afbeelding in. Kies die pagina's in de dropdown opties."
+
+#: inc/customizer.php:132
+msgid "2. The recommended size for the slider image is 1600 x 780 pixels. For better functioning of slider use equal size images for each slide."
+msgstr "2. De aanbevolen afmetingen voor de slider-afbeelding zijn 1600 x 780 pixels. Voor goed functioneren van de slider gebruik afbeeldingen van dezelfde afmetingen voor elke slide."
+
+#: inc/customizer.php:132
+msgid "3. If page do not have featured Image than that page will not included in slider show."
+msgstr "3. Als de pagina geen uitgelichte afbeelding heeft dan zal die pagina niet in de slideshow gebruikt worden."
+
+#: inc/customizer.php:132
+msgid "Note"
+msgstr "Opmerking"
+
+#: inc/admin/class-himalayas-admin.php:411 inc/customizer.php:130
+msgid "Slider Settings"
+msgstr "Slider-instellingen"
+
+#: inc/customizer.php:125
+msgid "Himalayas Slider Options"
+msgstr "Himalayas Slider opties"
+
+#: inc/customizer.php:124
+msgid "Contain all the slider related options"
+msgstr "Bevat alle slider-gerelateerde opties"
+
+#: inc/customizer.php:110
+msgid "Header Text Only"
+msgstr "Alleen header-tekst"
+
+#: inc/customizer.php:112
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: inc/customizer.php:111
+msgid "Show Both"
+msgstr "Toon beide"
+
+#: inc/customizer.php:109
+msgid "Header Logo Only"
+msgstr "Alleen header-logo"
+
+#: inc/admin/meta-boxes.php:47
+msgid "No Sidebar Full Width"
+msgstr "Geen Sidebar Volledige Breedte"
+
+#: inc/admin/meta-boxes.php:52
+msgid "No Sidebar Content Centered"
+msgstr "Geen Sidebar Content Gecentreerd"
+
+#: inc/admin/meta-boxes.php:59
+msgid "fontawesome Icons"
+msgstr "fontawesome Iconen"
+
+#: inc/customizer.php:32
+msgid "Contain all the Header related options"
+msgstr "Bevat alle header-gerelateerde opties"
+
+#: inc/customizer.php:34
+msgid "Himalayas Header Options"
+msgstr "Himalayas Header opties"
+
+#: inc/admin/meta-boxes.php:117
+msgid "<a href=\"%s\" target=\"_blank\">Refer here</a> for icon class. For example: <strong>fa-mobile</strong>"
+msgstr "<a href=\"%s\" target=\"_blank\">Verwijs hierheen</a> voor icoon-class. Bijvoorbeeld: <strong>fa-mobile</strong>"
+
+#: inc/admin/meta-boxes.php:113
+msgid "If featured image is not used than display the icon in Services. </br>"
+msgstr "Als de uitgelichte afbeelding niet wordt gebruikt toon dan het icoon in Services. </br>"
+
+#: inc/customizer.php:106
+msgid "Choose the required option"
+msgstr "Kies de vereiste optie"
+
+#: inc/customizer.php:91
+msgid "Header Logo Image Upload"
+msgstr "Uploaden van afbeelding voor header-logo"
+
+#: inc/admin/meta-boxes.php:124
+msgid "Show designation in Our Team Widget. </br>"
+msgstr "Toon teamaanduiding in 'Ons team' widget. </br>"
+
+#: inc/admin/meta-boxes.php:66
+msgid "team designation"
+msgstr "teamaanduiding"
+
+#: inc/customizer.php:40
+msgid "Header Sticky/non-sticky"
+msgstr "Header Sticky/niet-sticky"
+
+#: inc/customizer.php:41
+msgid "Header is sticky by default."
+msgstr "Header is standaard sticky."
+
+#: inc/customizer.php:52
+msgid "Check to make header non-sticky"
+msgstr "Aanvinken om header niet-sticky te maken"
+
+#: inc/customizer.php:60
+msgid "By default Header is transparent when slider is used."
+msgstr "Standaard is de header transparant wanneer de slider gebruikt wordt."
+
+#: inc/customizer.php:71
+msgid "Make header non transparent."
+msgstr "Maak header niet-transparant."
+
+#: inc/customizer.php:77
+msgid "Header Title/Tagline and Logo"
+msgstr "Header Titel/Tagline en Logo"
+
+#: inc/customizer.php:59
+msgid "Header Transparency"
+msgstr "Header transparantie"
+
+#: inc/admin/meta-boxes.php:42 inc/widgets/widgets.php:31
+msgid "Left Sidebar"
+msgstr "Sidebar links"
+
+#: inc/admin/meta-boxes.php:37 inc/widgets/widgets.php:21
+msgid "Right Sidebar"
+msgstr "Sidebar rechts"
+
+#: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
+msgid "Select Layout"
+msgstr "Selecteer Layout"
+
+#: inc/admin/meta-boxes.php:32
+msgid "Default Layout"
+msgstr "Standaardlayout"
+
+#: inc/admin/meta-boxes.php:20
+msgid "Icon class"
+msgstr "Icoon-class"
+
+#: inc/admin/meta-boxes.php:22
+msgid "Our Team Designation"
+msgstr "Aanduiding van Ons team"
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: content.php:45 content.php:50 inc/header-functions.php:62
+#: inc/widgets/class-himalayas-about-us-widget.php:173
+#: inc/widgets/class-himalayas-featured-posts-widget.php:279
+#: inc/widgets/class-himalayas-service-widget.php:180
+msgid "Read more"
+msgstr "Meer lezen"
+
+#: content-page.php:24 content-single.php:41
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:40 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:39 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:38 comments.php:55
+msgid "Comment navigation"
+msgstr "Reactienavigatie"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Eén gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+
+#: 404.php:34
+msgid "404"
+msgstr "404"
+
+#: 404.php:36
+msgid "error"
+msgstr "Fout"
+
+#: 404.php:30
+msgid "It looks like nothing was found at this location. Try the search below."
+msgstr "Het lijkt erop dat er niets is gevonden op deze plek. Probeer de zoekfunctie hieronder."
+
+#: 404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oeps. Deze pagina kon niet worden gevonden."
+
+#. Author URI of the plugin/theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Theme URI of the plugin/theme
+msgid "https://themegrill.com/themes/himalayas/"
+msgstr "https://themegrill.com/themes/himalayas/"
